@@ -1,4 +1,4 @@
 # ML-Assignment-1
-# Name :
-# 700: 
-# CRN : 
+# Name : VENKATESH MOLUGU
+# 700: 700760305
+# CRN : 31219
